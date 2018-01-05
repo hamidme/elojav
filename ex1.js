@@ -11,8 +11,8 @@ Write a loop that makes seven calls to console.log to output the following trian
 */
 // Your code here.
 
-var ash = "#"
-while (ash.length < 8){
+var hash = "#"
+while (hash.length < 8){
 	console.log(ash);
-  	ash+="#";
+  	hash+="#";
 } 
